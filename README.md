@@ -1,6 +1,6 @@
-## SHARE-seq-kidney
+## Single-cell transcriptomic, epigenomic and spatial metabolomic cell profiling redefines the human kidney anatomy
 
-This repo contains the following analyses for the 324701-cell SHARE-seq multiome object
+This repository documents the scripts to generate data for our manuscript studying human kidney anatomical regions with SHARE-seq. <link> <br>
 
 1. Weighted Nearest Neighbour (WNN)
 2. chromVAR
