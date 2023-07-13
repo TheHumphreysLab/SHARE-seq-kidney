@@ -45,10 +45,10 @@ RT barcode - Sample Lookup Table<br>
 Meta info of all cells used for clustering<br>
 
 #### 7. Scripts for other multimodal analysis (multiome_code)<br>
-1. Weighted Nearest Neighbour (WNN)
-2. chromVAR
-3. Cicero
-4. RENIN
+Weighted Nearest Neighbour (WNN)<br>
+chromVAR<br>
+Cicero<br>
+RENIN<br>
 
 
 <br>
