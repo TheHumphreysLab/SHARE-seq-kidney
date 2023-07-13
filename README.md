@@ -1,12 +1,7 @@
 ## Single-cell transcriptomic, epigenomic and spatial metabolomic profiling redefines the human kidney anatomy
 
 This repository documents the scripts to generate data for our manuscript studying human kidney anatomical regions with SHARE-seq and imaging mass spectrometry. <link> <br>
-More information about MALDIpy, a package for single-cell analysis of MALDI-MS imaging mass spectrometry data, can be found in another GitHub repository: https://github.com/TheHumphreysLab/MALDIpy.
-
-1. Weighted Nearest Neighbour (WNN)
-2. chromVAR
-3. Cicero
-4. RENIN
+More information about MALDIpy, a package for single-cell analysis of MALDI-MS imaging mass spectrometry data, can be found in another GitHub repository: https://github.com/TheHumphreysLab/MALDIpy. <br>
 
 The raw (.fastq) and pre-processed (count matrix) data and metadata have been deposited in NCBI’s Gene Expression Omnibus and are available through GEO Series accession number .  <br> <br>
 A searchable database is available at our Kidney Interactive Transcriptomics (K.I.T.) website: http://humphreyslab.com/SingleCell/.<link> <br><br>
