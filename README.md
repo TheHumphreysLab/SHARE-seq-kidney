@@ -3,7 +3,7 @@
 This repository documents the scripts to generate data for our manuscript studying human kidney anatomical regions with SHARE-seq and imaging mass spectrometry. <link> <br>
 More information about MALDIpy, a package for single-cell analysis of MALDI-MS imaging mass spectrometry data, can be found in another GitHub repository: https://github.com/TheHumphreysLab/MALDIpy. <br>
 
-The raw (.fastq) and pre-processed (count matrix) data and metadata have been deposited in NCBI’s Gene Expression Omnibus and are available through GEO Series accession number .  <br> <br>
+Raw data (.fastq), processed data (count matrix .h5 files and fragment .bed files), sublibrary primer sequences and metadata of the SHARE-seq data have been deposited in NCBI’s Gene Expression Omnibus and are available through GEO Series accession number GSE234788. <br> <br>
 A searchable database is available at our Kidney Interactive Transcriptomics (K.I.T.) website: http://humphreyslab.com/SingleCell/.<link> <br><br>
 Pre-processing of raw fastq files was performed as previously described (Ma et al. 2020, Cell): https://github.com/masai1116/SHARE-seq-alignment and https://github.com/masai1116/SHARE-seq-alignmentV2/.<br>
 
