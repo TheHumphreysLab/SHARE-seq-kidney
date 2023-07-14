@@ -10,39 +10,43 @@ Pre-processing of raw fastq files was performed as previously described (Ma et a
 ### Descriptions
 
 #### 1. Scripts for Figure 1<br>
-Quality control and single-cell clustering<br>
-Pseudobulk trajectory ordering (Fig. 1c)<br>
-Single-cell visualization (Fig. 1d)<br>
-Gene expression visualization (Fig. 1e)<br>
+Peusdobulk analysis for scRNA-seq<br>
+Peusdobulk analysis for scATAC-seq<br>
+Peusdobulk analysis for co-embedded scRNA-seq and scATAC-seq<br>
+Quality control and single-cell clustering (scRNA-seq)<br>
+.bed file preprocessing, peak calling and metadata inclusion (scATAC-seq)<br>
+Quality control and single-cell clustering (scATAC-seq)<br>
+Circular UMAP visualization<br>
 
 
 #### 2. Scripts for Figure 2<br>
-Single-cell visualization (Fig. 2a)<br>
-Gene expression visualization (Fig. 2b)<br>
-Single-cell TF activity analysis (Fig. 2c)<br>
-Single-cell pathway activity analysis (Fig. 2d)<br>
-Single-cell trajectory ordering (Fig. 2f)<br>
-Fate prediction analysis with time-series scRNAseq data (Fig. 2g)<br>
+Single-cell and gene expression visualizations and correlation analysis (scRNA-seq)<br>
+Single-cell and gene expression visualizations and correlation analysis (scATAC-seq)<br>
+Calculating cell type proportions across samples or groups<br>
+Calculating sample or group distributions for each cell type<br>
+Calculating the consistency of cell cluster annotation between scRNA-seq and scATAC-seq<br>
 
 #### 3. Scripts for Figure 3<br> 
-Quality control and single-cell subclustering<br>
-Single-cell visualization (Fig. 6a/b)<br>
-Gene expression visualization (Fig. 6c/d/f)<br>
+Single-cell analysis of spatially resolved metabolomics data<br>
+Single-cell metabolite feature visualization and tissue projection<br>
 
 #### 4. Scripts for Figure 4<br>
-Quality control and single-cell subclustering<br>
-Single-cell visualization (Fig. 7a/b)<br>
-Gene module scoring (Fig. 7e)<br>
-Commands used for CellPhoneDB analysis<br>
-Statistical analysis (Fig. 7f/g)<br>
+Quality control and single-cell clustering for tL<br>
+Quality control and single-cell clustering for TAL<br>
+Quality control and single-cell clustering for distal tubular cells<br>
+Gene expression visualization and calculating cell type proportions across samples or groups<br>
 
 #### 5. Scripts for Figure 5<br>
-RT barcode - Sample Lookup Table<br>
-Meta info of all cells used for clustering<br>
+Processing a total of 2111 metabolism associated genes only<br>
+Quality control and single-cell clustering with metabolism genes<br>
+Gene module scoring for metabolic profiles<br>
+Data visualization<br>
 
 #### 6. Scripts for Figure 6&7<br>
-RT barcode - Sample Lookup Table<br>
-Meta info of all cells used for clustering<br>
+Acylcarnitine feature analysis in the spatially resolved metabolomics data<br>
+Monocle3-based trajectory analysis for PT cells<br>
+Marker visualization across predicted pseudotime<br>
+Cinical data integration and regression analysis<br>
 
 #### 7. Scripts for other multimodal analysis (multiome_code)<br>
 Weighted Nearest Neighbour (WNN)<br>
