@@ -1,7 +1,7 @@
 ## Single-cell transcriptomic, epigenomic and spatial metabolomic profiling redefines the human kidney anatomy
 
-This repository documents the scripts to generate data for our manuscript studying human kidney anatomical regions with SHARE-seq and imaging mass spectrometry. <link> <br>
-More information about MALDIpy, a package for single-cell analysis of MALDI-MS imaging mass spectrometry data, can be found in another GitHub repository: https://github.com/TheHumphreysLab/MALDIpy. <br>
+### This repository documents the scripts to generate data for our manuscript studying human kidney anatomical regions with SHARE-seq and imaging mass spectrometry. <link> <br>
+More information about **MALDIpy**, a package for single-cell analysis of MALDI-MS imaging mass spectrometry data, can be found in another GitHub repository: https://github.com/TheHumphreysLab/MALDIpy. <br>
 
 Raw data (.fastq), processed data (count matrix .h5 files and fragment .bed files), sublibrary primer sequences and metadata of the SHARE-seq data have been deposited in NCBI’s Gene Expression Omnibus and are available through GEO Series accession number GSE234788. <br> <br>
 A searchable database is available at our Kidney Interactive Transcriptomics (K.I.T.) website: http://humphreyslab.com/SingleCell/.<link> <br><br>
@@ -16,7 +16,7 @@ Peusdobulk analysis for co-embedded scRNA-seq and scATAC-seq<br>
 Quality control and single-cell clustering (scRNA-seq)<br>
 .bed file preprocessing, peak calling and metadata inclusion (scATAC-seq)<br>
 Quality control and single-cell clustering (scATAC-seq)<br>
-Circular UMAP visualization<br>
+Circular UMAP visualization with <a href="https://github.com/TheHumphreysLab/plot1cell">plot1cell</a><br>
 
 
 #### 2. Scripts for Figure 2<br>
@@ -61,5 +61,5 @@ RENIN<br>
 
 Find us on Twitter: 
 <br/>
-  <a href="https://twitter.com/HumphreysLab?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false"> @HumphreysLab</a>
+  <a href="https://twitter.com/HumphreysLab?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false"> **@HumphreysLab**</a>
 <br/><br/>
