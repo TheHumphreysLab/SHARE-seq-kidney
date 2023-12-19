@@ -1,4 +1,4 @@
-## Single-cell transcriptomic, epigenomic and spatial metabolomic profiling redefines the human kidney anatomy
+## Transcriptomic, epigenomic and spatial metabolomic cell profiling redefines regional human kidney anatomy
 
 ### This repository documents the scripts to generate data for our manuscript studying human kidney anatomical regions with SHARE-seq and imaging mass spectrometry. <link> <br>
 More information about **MALDIpy**, a package for single-cell analysis of MALDI-MS imaging mass spectrometry data, can be found in another GitHub repository: https://github.com/TheHumphreysLab/MALDIpy. <br>
