@@ -1,6 +1,12 @@
 ## Transcriptomic, epigenomic and spatial metabolomic cell profiling redefines regional human kidney anatomy
 
 ### This repository documents the scripts to generate data for our manuscript studying human kidney anatomical regions with SHARE-seq and imaging mass spectrometry. <link> <br>
+For citation:
+```
+Li, H., Li, D., Ledru, N., Xuanyuan, Q., Wu, H., Asthana, A., Byers, L.N., Tullius, S.G., Orlando, G., Waikar, S.S. and Humphreys, B.D., 2024. Transcriptomic, epigenomic, and spatial metabolomic cell profiling redefines regional human kidney anatomy. Cell metabolism, 36(5), pp.1105-1125.
+DOI: https://doi.org/10.1016/j.cmet.2024.02.015 (PMID: 38513647)
+```
+
 More information about **MALDIpy**, a package for single-cell analysis of MALDI-MS imaging mass spectrometry data, can be found in another GitHub repository: https://github.com/TheHumphreysLab/MALDIpy. <br>
 
 Raw data (.fastq), processed data (count matrix .h5 files and fragment .bed files), sublibrary primer sequences and metadata of the SHARE-seq data have been deposited in NCBI’s Gene Expression Omnibus and are available through GEO Series accession number GSE234788. <br> <br>
